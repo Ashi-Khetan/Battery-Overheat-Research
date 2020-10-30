@@ -1,0 +1,2 @@
+# Battery-Overheat-Research
+In this project, I have used machine learning models in order to predict the rate of change of temperature in the battery of phones with respect to time due to various factors such as games, video calls, etc. The main reason to work on this project was to create awareness among the people about which factors can cause their phone battery to get overheated as there have been many cases of phone explosions in recent years.
